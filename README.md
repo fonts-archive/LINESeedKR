@@ -1,0 +1,2 @@
+# LINESeedKR
+LINE Seed

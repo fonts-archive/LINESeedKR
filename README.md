@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'LINE Seed KR';
@@ -12,7 +12,7 @@ font-family: 'LINE Seed KR';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/LINESeedKR/LINESeedKR.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/LINESeedKR/LINESeedKR.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -61,4 +61,16 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/LINESeedKR/LINESeedKR-Bold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/LINESeedKR/LINESeedKR-Bold.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+Copyright 2020-2022 LINE Corporation All Rights Reserved.  
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1. 
+This license is copied below, and is also available with a FAQ at: 
+http://scripts.sil.org/OFL
 ```
